@@ -1,0 +1,14 @@
+{
+  "name": "sampleproject-let",
+  "version": "1.0.0",
+  "description": "This is Test Project for LET Team",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.4"
+  }
+}
